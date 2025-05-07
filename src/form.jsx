@@ -277,7 +277,7 @@ function Form() {
                                                     />
                                                     <button
                                                         onClick={() => handleRemove(index)}
-                                                        className="absolute top-0 right-0 bg-black bg-opacity-60 text-white text-xs px-2 py-1"
+                                                        className="absolute top-0 right-0 bg-black bg-opacity-50 text-white text-xs px-2 py-1"
                                                     >
                                                         ✕
                                                     </button>
